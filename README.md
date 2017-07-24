@@ -9,3 +9,10 @@ Various of NLP tasks using Deep Reinforcement Learning
 6. <a href="https://arxiv.org/abs/1706.00130">Teaching Machines to Describe Images via Natural Language Feedback</a>
 7. <a href="https://arxiv.org/abs/1704.04572">Task-Oriented Query Reformulation with Reinforcement Learning</a>
 8. <a href="https://arxiv.org/abs/1707.06690">DeepPath: A Reinforcement Learning Method for Knowledge Graph Reasoning</a>
+
+
+# Representation Learning for NLP
+
+1. <a href="https://arxiv.org/abs/1705.02364">Supervised Learning of Universal Sentence Representations from Natural Language Inference Data</a>
+2. <a href="https://aclweb.org/anthology/W/W16/W16-1612.pdf">Mapping Unseen Words to Task-Trained Embedding Spaces</a>
+3. <a href="https://arxiv.org/abs/1703.03130">A Structured Self-attentive Sentence Embedding</a>
