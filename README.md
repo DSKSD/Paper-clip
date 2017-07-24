@@ -16,3 +16,5 @@ Various of NLP tasks using Deep Reinforcement Learning
 1. <a href="https://arxiv.org/abs/1705.02364">Supervised Learning of Universal Sentence Representations from Natural Language Inference Data</a>
 2. <a href="https://aclweb.org/anthology/W/W16/W16-1612.pdf">Mapping Unseen Words to Task-Trained Embedding Spaces</a>
 3. <a href="https://arxiv.org/abs/1703.03130">A Structured Self-attentive Sentence Embedding</a>
+4. <a href="https://arxiv.org/abs/1607.01759.pdf">Bag of Tricks for Efficient Text Classification</a>
+5. <a href="https://arxiv.org/abs/1607.04606.pdf">Enriching Word Vectors with Subword Information</a>
