@@ -13,13 +13,17 @@ Various of NLP tasks using Deep Reinforcement Learning
 
 # Representation Learning for NLP
 
-1. <a href="https://arxiv.org/abs/1705.02364">Supervised Learning of Universal Sentence Representations from Natural Language Inference Data</a>
-2. <a href="https://aclweb.org/anthology/W/W16/W16-1612.pdf">Mapping Unseen Words to Task-Trained Embedding Spaces</a>
-3. <a href="https://arxiv.org/abs/1703.03130">A Structured Self-attentive Sentence Embedding</a>
-4. <a href="https://arxiv.org/abs/1607.01759">Bag of Tricks for Efficient Text Classification</a>
-5. <a href="https://arxiv.org/abs/1607.04606">Enriching Word Vectors with Subword Information</a>
-6. <a href="https://arxiv.org/abs/1705.10359">Neural Embeddings of Graphs in Hyperbolic Space</a>
-7. <a href="https://arxiv.org/abs/1705.08039">Poincaré Embeddings for Learning Hierarchical Representations</a>
+1. <a href="https://nlp.stanford.edu/pubs/glove.pdf">GloVe: Global Vectors for Word Representation</a>
+2. <a href="https://arxiv.org/pdf/1506.06726.pdf">Skip-Thought Vectors</a>
+3. <a href="https://arxiv.org/abs/1705.02364">Supervised Learning of Universal Sentence Representations from Natural Language Inference Data</a>
+4. <a href="https://aclweb.org/anthology/W/W16/W16-1612.pdf">Mapping Unseen Words to Task-Trained Embedding Spaces</a>
+5. <a href="https://arxiv.org/abs/1703.03130">A Structured Self-attentive Sentence Embedding</a>
+6. <a href="https://arxiv.org/abs/1607.01759">Bag of Tricks for Efficient Text Classification</a>
+7. <a href="https://arxiv.org/abs/1607.04606">Enriching Word Vectors with Subword Information</a>
+8. <a href="https://arxiv.org/abs/1705.10359">Neural Embeddings of Graphs in Hyperbolic Space</a>
+9. <a href="https://arxiv.org/abs/1705.08039">Poincaré Embeddings for Learning Hierarchical Representations</a>
+10. <a href="https://einstein.ai/static/images/layouts/research/cove/McCann2017LearnedIT.pdf">Learned in Translation: Contextualized Word Vectors</a>
+11. <a href="https://arxiv.org/abs/1309.4168">Exploiting Similarities among Languages for Machine Translation</a>
 
 
 # Reinforcement Learning 
