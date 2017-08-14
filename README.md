@@ -9,6 +9,7 @@ Various of NLP tasks using Deep Reinforcement Learning
 6. <a href="https://arxiv.org/abs/1706.00130">Teaching Machines to Describe Images via Natural Language Feedback</a>
 7. <a href="https://arxiv.org/abs/1704.04572">Task-Oriented Query Reformulation with Reinforcement Learning</a>
 8. <a href="https://arxiv.org/abs/1707.06690">DeepPath: A Reinforcement Learning Method for Knowledge Graph Reasoning</a>
+9. <a href="https://arxiv.org/abs/1609.00777">Towards End-to-End Reinforcement Learning of Dialogue Agents for Information Access</a>
 
 
 # Representation Learning for NLP
