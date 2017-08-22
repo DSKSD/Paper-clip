@@ -27,6 +27,11 @@ Various of NLP tasks using Deep Reinforcement Learning
 11. <a href="https://arxiv.org/abs/1309.4168">Exploiting Similarities among Languages for Machine Translation</a>
 12. <a href="https://arxiv.org/abs/1707.09457">Men Also Like Shopping: Reducing Gender Bias Amplification using Corpus-level Constraints</a>
 
+# NLP
+
+1. <a href="https://arxiv.org/abs/1708.02182">Regularizing and Optimizing LSTM Language Models</a>
+2. <a href="https://arxiv.org/abs/1607.06450">Layer Normalization</a>
+
 # Reinforcement Learning 
 
 1. <a href="https://arxiv.org/abs/1707.08616">Guiding Reinforcement Learning Exploration Using Natural Language</a>
