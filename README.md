@@ -31,6 +31,9 @@ Various of NLP tasks using Deep Reinforcement Learning
 
 1. <a href="https://arxiv.org/abs/1708.02182">Regularizing and Optimizing LSTM Language Models</a>
 2. <a href="https://arxiv.org/abs/1607.06450">Layer Normalization</a>
+3. <a href="https://openreview.net/pdf?id=Byj72udxe">POINTER SENTINEL MIXTURE MODELS</a>
+4. <a href="https://arxiv.org/abs/1709.02755">Training RNNs as Fast as CNNs</a>
+
 
 # Reinforcement Learning 
 
