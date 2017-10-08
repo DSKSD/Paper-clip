@@ -43,3 +43,4 @@ Various of NLP tasks using Deep Reinforcement Learning
 4. <a href="https://arxiv.org/abs/1703.03864">Evolution Strategies as a Scalable Alternative to Reinforcement Learning</a>
 5. <a href="https://arxiv.org/abs/1706.01905">Parameter Space Noise for Exploration</a>
 6. <a href="https://arxiv.org/abs/1709.04326">Learning with Opponent-Learning Awareness</a>
+7. <a href="https://arxiv.org/abs/1705.05363">Curiosity-driven Exploration by Self-supervised Prediction</a>
