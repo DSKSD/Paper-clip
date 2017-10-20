@@ -37,6 +37,10 @@ Various of NLP tasks using Deep Reinforcement Learning
 6. <a href="https://nlp.stanford.edu/pubs/zhang2017tacred.pdf">Position-aware Attention and Supervised Data Improve Slot Filling</a>
 7. <a href="https://arxiv.org/pdf/1603.08148.pdf">Pointing the Unknown Words</a>
 
+# Dialogue System
+
+1. <a href="http://www.aclweb.org/anthology/W17-5529">Beyond On-Hold Messages:Conversational Time-Buying in Task-Oriented Dialogue</a>
+
 # Reinforcement Learning 
 
 1. <a href="https://arxiv.org/abs/1707.08616">Guiding Reinforcement Learning Exploration Using Natural Language</a>
