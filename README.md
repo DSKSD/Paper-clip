@@ -10,6 +10,7 @@ Various of NLP tasks using Deep Reinforcement Learning
 7. <a href="https://arxiv.org/abs/1704.04572">Task-Oriented Query Reformulation with Reinforcement Learning</a>
 8. <a href="https://arxiv.org/abs/1707.06690">DeepPath: A Reinforcement Learning Method for Knowledge Graph Reasoning</a>
 9. <a href="https://arxiv.org/abs/1609.00777">Towards End-to-End Reinforcement Learning of Dialogue Agents for Information Access</a>
+10. <a href="http://emnlp2017.net/accepted-papers.html">Composite Task-Completion Dialogue Policy Learning via Hierarchical Deep Reinforcement Learning</a>
 
 
 # Representation Learning for NLP
@@ -38,7 +39,6 @@ Various of NLP tasks using Deep Reinforcement Learning
 7. <a href="https://arxiv.org/pdf/1603.08148.pdf">Pointing the Unknown Words</a>
 8. <a href="https://arxiv.org/abs/1710.02224">Dilated Recurrent Neural Networks</a>
 
-
 # Reinforcement Learning 
 
 1. <a href="https://arxiv.org/abs/1707.08616">Guiding Reinforcement Learning Exploration Using Natural Language</a>
@@ -50,3 +50,4 @@ Various of NLP tasks using Deep Reinforcement Learning
 7. <a href="https://arxiv.org/abs/1705.05363">Curiosity-driven Exploration by Self-supervised Prediction</a>
 8. <a href="https://arxiv.org/abs/1710.09767.pdf">META LEARNING SHARED HIERARCHIES</a>
 9. <a href="https://arxiv.org/abs/1707.06347">Proximal Policy Optimization Algorithms</a>
+10. <a href="https://arxiv.org/pdf/1611.01144.pdf">CATEGORICAL REPARAMETERIZATION WITH GUMBEL-SOFTMAX</a>
