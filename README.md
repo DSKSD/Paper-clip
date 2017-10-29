@@ -49,3 +49,4 @@ Various of NLP tasks using Deep Reinforcement Learning
 6. <a href="https://arxiv.org/abs/1709.04326">Learning with Opponent-Learning Awareness</a>
 7. <a href="https://arxiv.org/abs/1705.05363">Curiosity-driven Exploration by Self-supervised Prediction</a>
 8. <a href="https://arxiv.org/abs/1710.09767.pdf">META LEARNING SHARED HIERARCHIES</a>
+9. <a href="https://arxiv.org/abs/1707.06347">Proximal Policy Optimization Algorithms</a>
