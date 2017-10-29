@@ -38,9 +38,6 @@ Various of NLP tasks using Deep Reinforcement Learning
 7. <a href="https://arxiv.org/pdf/1603.08148.pdf">Pointing the Unknown Words</a>
 8. <a href="https://arxiv.org/abs/1710.02224">Dilated Recurrent Neural Networks</a>
 
-# Dialogue System
-
-1. <a href="http://www.aclweb.org/anthology/W17-5529">Beyond On-Hold Messages:Conversational Time-Buying in Task-Oriented Dialogue</a>
 
 # Reinforcement Learning 
 
@@ -51,3 +48,4 @@ Various of NLP tasks using Deep Reinforcement Learning
 5. <a href="https://arxiv.org/abs/1706.01905">Parameter Space Noise for Exploration</a>
 6. <a href="https://arxiv.org/abs/1709.04326">Learning with Opponent-Learning Awareness</a>
 7. <a href="https://arxiv.org/abs/1705.05363">Curiosity-driven Exploration by Self-supervised Prediction</a>
+8. <a href="https://arxiv.org/abs/1710.09767.pdf">META LEARNING SHARED HIERARCHIES</a>
