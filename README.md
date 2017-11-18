@@ -40,6 +40,7 @@ Various of NLP tasks using Deep Reinforcement Learning
 8. <a href="https://arxiv.org/abs/1710.02224">Dilated Recurrent Neural Networks</a>
 9. <a href="https://arxiv.org/pdf/1711.00066.pdf">FRATERNAL DROPOUT</a>
 10. <a href="https://arxiv.org/pdf/1711.03953.pdf">BREAKING THE SOFTMAX BOTTLENECK:A HIGH-RANK RNN LANGUAGE MODEL</a>
+11. <a href="https://arxiv.org/pdf/1711.05717.pdf">VARIATIONAL BI-LSTMS</a>
 
 # Reinforcement Learning 
 
