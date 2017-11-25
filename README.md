@@ -10,8 +10,12 @@ Various of NLP tasks using Deep Reinforcement Learning
 7. <a href="https://arxiv.org/abs/1704.04572">Task-Oriented Query Reformulation with Reinforcement Learning</a>
 8. <a href="https://arxiv.org/abs/1707.06690">DeepPath: A Reinforcement Learning Method for Knowledge Graph Reasoning</a>
 9. <a href="https://arxiv.org/abs/1609.00777">Towards End-to-End Reinforcement Learning of Dialogue Agents for Information Access</a>
-10. <a href="http://emnlp2017.net/accepted-papers.html">Composite Task-Completion Dialogue Policy Learning via Hierarchical Deep Reinforcement Learning</a>
 
+
+# Dialogue Policy Optimization
+
+1. <a href="https://arxiv.org/pdf/1703.01008.pdf">End-to-End Task-Completion Neural Dialogue Systems</a>
+2. <a href="http://emnlp2017.net/accepted-papers.html">Composite Task-Completion Dialogue Policy Learning via Hierarchical Deep Reinforcement Learning</a>
 
 # Representation Learning for NLP
 
