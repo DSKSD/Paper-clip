@@ -47,6 +47,7 @@ Various of NLP tasks using Deep Reinforcement Learning
 11. <a href="https://arxiv.org/pdf/1711.05717.pdf">VARIATIONAL BI-LSTMS</a>
 12. <a href="https://www.csie.ntu.edu.tw/~yvchen/doc/ICASSP17_E2E.pdf">END-TO-END JOINT LEARNING OF NATURAL LANGUAGE UNDERSTANDING AND DIALOGUE MANAGER</a>
 13. <a href="https://arxiv.org/pdf/1711.03953.pdf">REAKING THE SOFTMAX BOTTLENECK: A HIGH-RANK RNN LANGUAGE MODEL</a>
+14. <a href="https://arxiv.org/pdf/1706.08502.pdf">Natural Language Does Not Emerge ‘Naturally’ in Multi-Agent Dialog</a>
 
 # Reinforcement Learning 
 
