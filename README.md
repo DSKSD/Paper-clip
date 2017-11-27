@@ -61,3 +61,4 @@ Various of NLP tasks using Deep Reinforcement Learning
 8. <a href="https://arxiv.org/abs/1710.09767.pdf">META LEARNING SHARED HIERARCHIES</a>
 9. <a href="https://arxiv.org/abs/1707.06347">Proximal Policy Optimization Algorithms</a>
 10. <a href="https://arxiv.org/pdf/1611.01144.pdf">CATEGORICAL REPARAMETERIZATION WITH GUMBEL-SOFTMAX</a>
+11. <a href="https://arxiv.org/pdf/1710.02298.pdf">Rainbow: Combining Improvements in Deep Reinforcement Learning</a>
