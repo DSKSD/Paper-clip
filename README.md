@@ -49,6 +49,7 @@ Various of NLP tasks using Deep Reinforcement Learning
 13. <a href="http://papers.nips.cc/paper/7130-svd-softmax-fast-softmax-approximation-on-large-vocabulary-neural-networks.pdf">SVD-Softmax: Fast Softmax Approximation on Large Vocabulary Neural Networks</a>
 14. <a href="https://arxiv.org/pdf/1706.08502.pdf">Natural Language Does Not Emerge ‘Naturally’ in Multi-Agent Dialog</a>
 15. <a href="https://arxiv.org/pdf/1704.01444.pdf">Learning to Generate Reviews and Discovering Sentiment</a>
+16. <a href="https://arxiv.org/pdf/1711.06788v1.pdf">MinimalRNN: Toward More Interpretable and Trainable Recurrent Neural Networks</a>
 
 # Reinforcement Learning 
 
