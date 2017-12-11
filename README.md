@@ -31,6 +31,7 @@ Various of NLP tasks using Deep Reinforcement Learning
 10. <a href="https://einstein.ai/static/images/layouts/research/cove/McCann2017LearnedIT.pdf">Learned in Translation: Contextualized Word Vectors</a>
 11. <a href="https://arxiv.org/abs/1309.4168">Exploiting Similarities among Languages for Machine Translation</a>
 12. <a href="https://arxiv.org/abs/1707.09457">Men Also Like Shopping: Reducing Gender Bias Amplification using Corpus-level Constraints</a>
+13. <a href="https://arxiv.org/pdf/1605.02019.pdf">Mixing Dirichlet Topic Models and Word Embeddings to Make lda2vec</a>
 
 # NLP
 
