@@ -52,6 +52,24 @@ Various of NLP tasks using Deep Reinforcement Learning
 15. <a href="https://arxiv.org/pdf/1704.01444.pdf">Learning to Generate Reviews and Discovering Sentiment</a>
 16. <a href="https://arxiv.org/pdf/1711.06788v1.pdf">MinimalRNN: Toward More Interpretable and Trainable Recurrent Neural Networks</a>
 
+# Machine Reading Comprehension
+
+1. <a href="https://arxiv.org/abs/1611.01603">Bidirectional Attention Flow for Machine Comprehension</a>
+2. <a href="https://arxiv.org/abs/1711.00106">DCN+: Mixed Objective and Deep Residual Coattention for Question Answering</a>
+3. <a href="https://openreview.net/pdf?id=BJIgi_eCZ">FUSIONNET: FUSING VIA FULLY-AWARE ATTENTION WITH APPLICATION TO MACHINE COMPREHENSION</a>
+
+# Speech Recognition
+
+1. <a href="https://arxiv.org/abs/1508.01211">Listen, Attend and Spell</a>
+2. <a href="https://arxiv.org/abs/1512.02595">Deep Speech 2: End-to-End Speech Recognition in English and Mandarin</a>
+3. <a href="https://arxiv.org/abs/1712.01769">State-of-the-art Speech Recognition With Sequence-to-Sequence Models</a>
+
+# Neural Machine Translation
+
+1. <a href="https://arxiv.org/abs/1706.03762">Attention Is All You Need</a>
+2. <a href="https://arxiv.org/abs/1711.00043">Unsupervised Machine Translation Using Monolingual Corpora Only</a>
+3. <a href="https://arxiv.org/abs/1603.06393">Incorporating Copying Mechanism in Sequence-to-Sequence Learning</a>
+
 # Reinforcement Learning 
 
 1. <a href="https://arxiv.org/abs/1707.08616">Guiding Reinforcement Learning Exploration Using Natural Language</a>
