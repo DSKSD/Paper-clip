@@ -51,6 +51,7 @@ Various of NLP tasks using Deep Reinforcement Learning
 14. <a href="https://arxiv.org/pdf/1706.08502.pdf">Natural Language Does Not Emerge ‘Naturally’ in Multi-Agent Dialog</a>
 15. <a href="https://arxiv.org/pdf/1704.01444.pdf">Learning to Generate Reviews and Discovering Sentiment</a>
 16. <a href="https://arxiv.org/pdf/1711.06788v1.pdf">MinimalRNN: Toward More Interpretable and Trainable Recurrent Neural Networks</a>
+17. <a href="https://arxiv.org/pdf/1606.02960.pdf">Sequence-to-Sequence Learning as Beam-Search Optimization</a>
 
 # Machine Reading Comprehension
 
