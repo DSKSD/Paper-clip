@@ -61,6 +61,8 @@ Various of NLP tasks using Deep Reinforcement Learning
 1. <a href="https://arxiv.org/abs/1611.01603">Bidirectional Attention Flow for Machine Comprehension</a>
 2. <a href="https://arxiv.org/abs/1711.00106">DCN+: Mixed Objective and Deep Residual Coattention for Question Answering</a>
 3. <a href="https://openreview.net/pdf?id=BJIgi_eCZ">FUSIONNET: FUSING VIA FULLY-AWARE ATTENTION WITH APPLICATION TO MACHINE COMPREHENSION</a>
+4. <a href="https://openreview.net/pdf?id=B14TlG-RW">Fast and Accurate Reading Comprehension by Combining Self-Attention and Convolution</a>
+
 
 # Speech Recognition
 
@@ -73,6 +75,7 @@ Various of NLP tasks using Deep Reinforcement Learning
 1. <a href="https://arxiv.org/abs/1706.03762">Attention Is All You Need</a>
 2. <a href="https://arxiv.org/abs/1711.00043">Unsupervised Machine Translation Using Monolingual Corpora Only</a>
 3. <a href="https://arxiv.org/abs/1603.06393">Incorporating Copying Mechanism in Sequence-to-Sequence Learning</a>
+4. <a href="https://arxiv.org/pdf/1804.00247.pdf">Training Tips for the Transformer Model</a>
 
 # Reinforcement Learning 
 
